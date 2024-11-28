@@ -1,0 +1,17 @@
+# Folders
+
+crash-reports
+journeymap
+logs
+saves
+
+# Files
+
+*.curseclient
+minecraftinstance.json
+minetweaker.log
+MTUtilsData.nbt
+options.txt
+optionsnf.txt
+usernamecache.json
+plans\story.txt

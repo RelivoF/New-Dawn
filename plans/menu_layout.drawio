@@ -1,0 +1,52 @@
+<mxfile host="65bd71144e">
+    <diagram id="mlqsw_rBjYQyafAARino" name="Page-1">
+        <mxGraphModel dx="1014" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="16" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=60;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry y="190" width="1100" height="510" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="Play" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="120" y="210" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="Options" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="180" y="270" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="Multiplayer" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="60" y="270" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="Quit" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="120" y="550" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="Language" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="60" y="500" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="Mods" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="180" y="500" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="Background" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=60;" parent="1" vertex="1">
+                    <mxGeometry x="520" y="420" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="Main menu" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=60;" parent="1" vertex="1">
+                    <mxGeometry x="395" y="120" width="310" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="Default stuff" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=60;" parent="1" vertex="1">
+                    <mxGeometry x="30" y="780" width="330" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="&lt;h1 style=&quot;font-size: 20px;&quot;&gt;Dirt thing: a steel casing type of thing&lt;/h1&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=12;" parent="1" vertex="1">
+                    <mxGeometry y="850" width="400" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rotation=45;" vertex="1" parent="1">
+                    <mxGeometry x="130" y="340" width="60" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="LOGO" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+                    <mxGeometry x="106.5" y="380" width="107" height="85" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rotation=45;" vertex="1" parent="1">
+                    <mxGeometry x="130" y="450" width="60" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
