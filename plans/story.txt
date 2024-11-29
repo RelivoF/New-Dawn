@@ -1,11 +1,10 @@
 Lore:
-Humanity invented a machine, the cruxic, so powerful it could destroy a galaxy, but to use it they had to do complicated math. Scientists did it wrong so, now sun gone. 
-Cruxic doesn't destroy, it voids the atoms attributes (mass, side effects and mechanics its used in), but for some reason it still has a gravitational pull.
-
+Humanity disappeared, player doesn't know why.
 Now player comes in, humanity knew something would happen with it thats bad, so they set up the Recovery Operation (RP), which sent up 10 space stations with 5 pods on them, they would be sent down in 275 years down to earth to begin recovering. Only 2 survived that time, each with 1 pod remaining.
+
 RP-07 pod 2: the player.
 
 RP-08 pod 4: This one didn't get sent off because its time was set for 27500 years. (not reachable)
 
 Goal:
-Make Cruxic yourself, find way to return suns atoms to normal.
+Find out what happened.
