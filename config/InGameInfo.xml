@@ -46,15 +46,6 @@
                 <str>$c</str>
             </max>
             <var>light</var>
-            <str>$r (eye: </str>
-            <max>
-                <var>lighteye</var>
-                <num>7.5</num>
-                <str>$e</str>
-                <str>$c</str>
-            </max>
-            <var>lighteye</var>
-            <str>$r)</str>
         </line>
         <line>
             <str>$fEXP: $e{xpthislevel}$f / $a{xpcap}$f ($e</str>

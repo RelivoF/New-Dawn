@@ -1,0 +1,133 @@
+{
+    "images":
+    {
+        "title":
+        {
+            "image" : "newdawn:gui/textures/logo.png",
+            "posX" : -32,
+            "posY" : 16,
+            "width" : 64,
+            "height" : 128,
+            "alignment" : "button"
+        }
+    },
+    
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text" : "",
+            "texture": "newdawn:gui/textures/buttons/play.png",
+            "posX" : -32,
+            "posY" : -64,
+            "width" : 64,
+            "height" : 64,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+        
+        "multiplayer":
+        {
+            "text" : "",
+            "texture": "newdawn:gui/textures/buttons/multiplayer.png",
+            "posX" : -72,
+            "posY" : -24,
+            "width" : 64,
+            "height" : 64,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+        
+        "mods":
+        {
+            "text" : "",
+            "texture": "newdawn:gui/textures/buttons/mods.png",
+            "posX" : -72,
+            "posY" : 120,
+            "width" : 64,
+            "height" : 64,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },
+            
+        "options":
+        {
+            "text" : "",
+            "texture": "newdawn:gui/textures/buttons/settings.png",
+            "posX" : 8,
+            "posY" : 120,
+            "width" : 64,
+            "height" : 64,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+        
+        "quit":
+        {
+            "text" : "",
+            "texture": "newdawn:gui/textures/buttons/quit.png",
+            "posX" : -32,
+            "posY" : 160,
+            "width" : 64,
+            "height" : 64,
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        },
+        
+        "refresh":
+        {
+            "text" : "",
+            "posX" : 8,
+            "posY" : -24,
+            "width" : 64,
+            "height" : 64,
+            "texture": "newdawn:gui/textures/buttons/reload.png",
+            "action" : 
+            {
+                "type" : "refresh"
+            }
+        }
+    },
+    
+    "texts":
+    {
+        "mojang":
+        {
+            "text" : "Copyright Mojang AB. Do not distribute!",
+            "posX" : -197,
+            "posY" : -10,
+            "color" : -1,
+            "alignment" : "bottom_right"
+        },
+        
+        "fml":
+        {
+            "text" : "",
+            "posX" : 2,
+            "posY" : -50,
+            "color" : -1,
+            "alignment" : "bottom_left"
+        }
+    },
+    
+    "other":
+    {
+        "background": {
+			"image": "newdawn:gui/textures/background/background.png"
+		}
+    }
+}

@@ -1,6 +1,8 @@
 Yes:
 
 Communication Tower
+Coaxium Refinery
+Coaxium Generator
 
 Maybe:
 
@@ -10,7 +12,5 @@ Assembly Machine
 Automated Assembly Machine
 Sandblaster
 Super Computer
-
-
 
 No:
