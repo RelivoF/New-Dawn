@@ -48,7 +48,7 @@
             <var>light</var>
         </line>
         <line>
-            <str>$fEXP: $e{xpthislevel}$f / $a{xpcap}$f ($e</str>
+            <str>$fEXP: $a{xpthislevel}$f / $a{xpcap}$f ($e</str>
             <round>
                 <pct>
                     <var>xpthislevel</var>
